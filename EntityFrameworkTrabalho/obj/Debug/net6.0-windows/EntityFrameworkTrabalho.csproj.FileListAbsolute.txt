@@ -1,0 +1,58 @@
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\EntityFrameworkTrabalho.exe
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\EntityFrameworkTrabalho.deps.json
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\EntityFrameworkTrabalho.runtimeconfig.json
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\EntityFrameworkTrabalho.dll
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\EntityFrameworkTrabalho.pdb
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.csproj.AssemblyReference.cache
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.csproj.GenerateResource.cache
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.AssemblyInfoInputs.cache
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.AssemblyInfo.cs
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.csproj.CopyComplete
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.dll
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\refint\EntityFrameworkTrabalho.dll
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.pdb
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.genruntimeconfig.cache
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\ref\EntityFrameworkTrabalho.dll
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.formMenu.resources
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.Properties.Resources.resources
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.formCrud.resources
+C:\Users\abura\source\repos\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.formCadastro.resources
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\EntityFrameworkTrabalho.exe
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\EntityFrameworkTrabalho.deps.json
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\EntityFrameworkTrabalho.runtimeconfig.json
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\EntityFrameworkTrabalho.dll
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\EntityFrameworkTrabalho.pdb
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.csproj.AssemblyReference.cache
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.formCadastro.resources
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.formCrud.resources
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.formMenu.resources
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.Properties.Resources.resources
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.csproj.GenerateResource.cache
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.AssemblyInfoInputs.cache
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.AssemblyInfo.cs
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.csproj.CopyComplete
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.dll
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\refint\EntityFrameworkTrabalho.dll
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.pdb
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\EntityFrameworkTrabalho.genruntimeconfig.cache
+C:\Users\abura\OneDrive\Área de Trabalho\EntityFrameworkTrabalho\EntityFrameworkTrabalho\obj\Debug\net6.0-windows\ref\EntityFrameworkTrabalho.dll
